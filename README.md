@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2020)
+![Maintenance](https://img.shields.io/maintenance/yes/2020) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CoffeeFueledPanda/Linux-Basics)
 
 # Linux-Basics
 
