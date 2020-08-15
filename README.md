@@ -1,4 +1,6 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2020) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CoffeeFueledPanda/Linux-Basics)
+![Maintenance](https://img.shields.io/maintenance/yes/2020) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/CoffeeFueledPanda/Linux-Basics)
+[![GitHub license](https://img.shields.io/github/license/CoffeeFueledPanda/Linux-Basics)](https://github.com/CoffeeFueledPanda/Linux-Basics/blob/master/LICENSE)
 
 # Linux-Basics
 
